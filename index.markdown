@@ -7,7 +7,7 @@ layout: home
 
 
 <div>
-    <img src="/thomasnicosanti.github.io/profilePic.jpg"
+    <img src="profilePic.jpg"
         align="right"
         width="360"
         height="240"
