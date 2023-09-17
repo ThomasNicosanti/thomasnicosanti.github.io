@@ -7,7 +7,7 @@ layout: home
 
 
 <div>
-    <img src="profilePic.jpg"
+    <img src="profilePic.JPG"
         align="right"
         width="360"
         height="240"
