@@ -5,7 +5,12 @@
 layout: home
 ---
 
-<head><meta name="google-site-verification" content="t9PTpEPyqrFe_VRTofMpH0dfxHJ2CYc7d3K_u3jsSgs" />About me</head>
+<head>
+<title>Thomas Nicosanti personal webpage</title>
+<meta name="google-site-verification" content="t9PTpEPyqrFe_VRTofMpH0dfxHJ2CYc7d3K_u3jsSgs" />
+</head>
+
+<h1>About me</h1>
 <div>
     <img src="profilePic.JPG"
         align="right"
