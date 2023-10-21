@@ -4,7 +4,7 @@ title: My Publications
 permalink: /publications/
 ---
 
-<h1>Articles</h1>
+<h1> <meta name="google-site-verification" content="t9PTpEPyqrFe_VRTofMpH0dfxHJ2CYc7d3K_u3jsSgs" /> Articles</h1>
 No publications yet. Perhaps, I should upload some stuff I've written.
 
 
