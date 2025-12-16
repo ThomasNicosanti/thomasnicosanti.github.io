@@ -17,10 +17,11 @@ layout: home
         width="360"
         height="240"
         style="float">
-  <p>I'm a second year PhD student in Geometry and Mathematical Physics at SISSA (Trieste).<br> 
-  I've just started working on my PhD project about Abelian Topological Theories and their relation with Algebraic Topology, under the supervision of Pavel Putrov. 
+  <p>I'm a fourth-year PhD student in Geometry and Mathematical Physics at SISSA (Trieste).<br> 
+  I'm working on my PhD project about Topological Field Theories and their relation with low-dimensional topology and number theory, under the supervision of Pavel Putrov (ICTP). Together with Johann Quenta-Raygada (SISSA), we are exploring the correspondence between gauge theories with continuous and finite gauge groups. 
   </p> 
-  
-  <p>This site is still a W.I.P.</p>
+
+  <p>I'm one of the organizers of the <a href="https://sites.google.com/view/sissa-junior-gmp/home-page">Junior GMP students' cycle of seminars</a>.</p>
+
 
 </div>
